@@ -17,7 +17,7 @@
    
 #
 <p align="center"
-  <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Cvsrto-Blvck-red.svg?style=for-the-badge&logo=github"></a>
+  <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Cvsrto.Blvck-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
