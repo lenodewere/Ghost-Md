@@ -1,7 +1,7 @@
 {
   "name": "Ghost-Md",
-  "description": "I am Ghost-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better\n\t if Any Problem Whatsapp Me on: +2547",
-  "logo": "https://telegra.ph/file/2be2a434de6dd1fbd44b7.jpg",
+  "description": "I am Ghost-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better\n\t if Any Problem Whatsapp Me on: +254758682666",
+  "logo": "https://telegra.ph/file/1e840b204637187e03046.jpg",
   "keywords": ["whatsappbot", "giftedlMd", "gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr/",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": ""
+      "value": "254758682666"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
