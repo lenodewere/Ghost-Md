@@ -23,12 +23,12 @@
       "required" :true,    
       "value": "Africa/Nairobi"
     },
-  "PACK_NAME": {
+    "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
       "value": "Cvstro B🔥",
       "required": true 
     },
-  "PACK_AUTHER": {
+    "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
       "value": "Whatsappbot",
       "required": true 
