@@ -59,7 +59,7 @@ Enjoy the diverse features of the *Ghost-MD*  to enhance your conversations and 
 - [**Twitter**](https://x.com/official_lenny6) 
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=THANK+YOU+FOR+SUPPORTING+BLVCK-CVSTRO" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=bluecenter=true&vCenter=true&multiline=false&lines=THANK+YOU+FOR+SUPPORTING+BLVCK-CVSTRO" alt="">
 </p>
 
 
