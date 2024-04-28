@@ -1,5 +1,5 @@
  <h1 align="center"> GHOST-MD </h1>
-<p align="center"> GHOST-MD, A Simple WhatsApp user BOT, Created by Castro Fidel,to help you enhance your interaction with your WhatsApp.
+<p align="center"> GHOST-MD, A Simple WhatsApp user BOT, Created by blvck castro,to help you enhance your interaction with your WhatsApp.
 </p>
 <h1 align="center">
  
@@ -57,7 +57,6 @@ Enjoy the diverse features of the *Ghost-MD*  to enhance your conversations and 
 
 - [**Instagram**](https://www.instagram.com/blvck_castro)
 - [**WhatsApp**](https://wa.me/254758682666)
-- [**Twitter**](https://x.com/official_lenny6) 
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=bluecenter=true&vCenter=true&multiline=false&lines=THANK+YOU+FOR+SUPPORTING+BLVCK-CVSTRO" alt="">
