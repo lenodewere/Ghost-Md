@@ -2,11 +2,11 @@
   "name": "GHOST-MD",
   "version": "1.0.0",
   "description": "",
-  "main": "framework/ghost.js",
+  "main": "ghost.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node framework/ghost.js",
-    "flashmd": "pm2 start framework/ghost.js --attach --max-memory-restart 490M",
+    "s": "node ghost.js",
+    "flashmd": "pm2 start ghost.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
