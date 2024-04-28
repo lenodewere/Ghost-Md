@@ -1,6 +1,6 @@
 {
-  "name":"GHOST-MD",
-  "description":"An easy and simple WhatsApp bot developed by 𝐁𝐥𝐯𝐜𝐤𝐂𝐚𝐬𝐭𝐫𝐨 and 𝐋𝐞𝐧𝐧𝐢𝐞-𝐖",
+  "name":"Ghost-Md",
+  "description":"An easy and simple WhatsApp bot developed by Blvck Castro & Lennie W",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/1e840b204637187e03046.jpg",
   "repository":"https://github.com/Blvckcastro/Ghost-Md",
@@ -13,25 +13,6 @@
       "description":"choose your prefix of bot",
       "value":".",
       "required":true
-    },
-    "WELCOME": {
-      "description": "put 'false' or 'true' to enable & disable automatic group WELCOME ",
-      "value": "false",
-      "required" :true
-    },
-    "description": "Put TIME_ZONE according to your location",
-      "required" :true,    
-      "value": "Africa/Nairobi"
-    },
-    "PACK_NAME": {
-      "description": "Put Sticker Pack_Name.",
-      "value": "Cvstro B🔥",
-      "required": true 
-    },
-    "PACK_AUTHER": {
-      "description": "Put Sticker Author_Name.",
-      "value": "Whatsappbot",
-      "required": true 
     },
     "AUTO_READ_STATUS":
     {
@@ -56,8 +37,8 @@
     "BOT_NAME" : {
 
       "description":"put a name for your bot",
-      "value":"Blvck-Cvstro",
-      "required":false
+      "value":"Blvck Castro",
+      "required":true
 
     } ,
      "BOT_MENU_LINKS" : {
@@ -69,9 +50,9 @@
      },
     "PUBLIC_MODE":
     {
-      "description":"type yes to put your bot on public mode or no to put it on private mod",
+      "description":"type yes to put your bot on public mode or no to put it on private mode",
       "value":"yes",
-      "required":true
+      "required":false
     }
         ,
     "HEROKU_API_KEY": {
@@ -95,7 +76,7 @@
 
     "desc": "Your Name",
     "required": true,
-    "value": "Ghost-Md"
+    "value": "Blvck C"
   },
     "OWNER_NUMBER":
   {
@@ -108,7 +89,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "4"
+    "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
