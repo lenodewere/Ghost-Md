@@ -32,12 +32,11 @@ DEPLOY ON HEROKU
  `Then`
    - ***Click [`FORK`](https://github.com/Blvckcastro/Ghost-Md/fork) and `Star ⭐ Repository` for Courage.***
    
-   1.  `Get Session` by [`SCANING QR`](https://lennie-W-qr.onrender.com)
+   1.  `Get Session` by [`SCANING QR`](https://ghost-md-qr-c1b6d3dadebf.herokuapp.com)
      Or
-[`SCANING QR SERVER TWO`](https://lennieqrb-a0a1bd0f905e.herokuapp.com/)
  
 
-2. [`PAIRING CODE`](https://lenniepairer2-4641154cfcaa.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`
+2. [`PAIRING CODE`](https://ghost-md-session-2fa1f66993c9.herokuapp.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`
    - You will get a session ID in WhatsApp, copy the ID only & link your WhatsApp.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
    - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/Blvckcastro/Ghost-Md).***
