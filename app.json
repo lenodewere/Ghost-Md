@@ -14,6 +14,25 @@
       "value":".",
       "required":true
     },
+    "WELCOME": {
+      "description": "put 'false' or 'true' to enable & disable automatic group WELCOME ",
+      "value": "false",
+      "required" :true
+    },
+    "description": "Put TIME_ZONE according to your location",
+      "required" :true,    
+      "value": "Africa/Nairobi"
+    },
+  "PACK_NAME": {
+      "description": "Put Sticker Pack_Name.",
+      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥",
+      "required": true 
+    },
+  "PACK_AUTHER": {
+      "description": "Put Sticker Author_Name.",
+      "value": "Whatsappbot",
+      "required": true 
+    },
     "AUTO_READ_STATUS":
     {
       "description":"Your contact status will be read automatically(type 'yes' to active or 'no' to deactive  ; don't write in capital letter)",
