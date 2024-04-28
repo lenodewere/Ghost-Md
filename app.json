@@ -1,5 +1,5 @@
 {
-  "name":"LENNIE-W",
+  "name":"𝔾ℍ𝕆𝕊𝕋-𝕄𝔻",
   "description":"An easy and simple WhatsApp bot developed by Lenodewere lennie with Venocyber Admin",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/758083800a621d384a99b.jpg",
@@ -36,7 +36,7 @@
     "BOT_NAME" : {
 
       "description":"put a name for your bot",
-      "value":"𝐋𝚵𝚴𝚴𝚰𝚵 𝐖",
+      "value":"𝐆𝐇𝐎𝐒𝐓-𝐌𝐃",
       "required":false
 
     } ,
@@ -75,14 +75,14 @@
 
     "desc": "Your Name",
     "required": true,
-    "value": "Venocyber Admin🌷🌃"
+    "value": "𝐆𝐇𝐎𝐒𝐓-𝐌𝐃🌷🌃"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of Kenya '254')",
     "required":false,
-    "value": "255698101622"
+    "value": "254758682666"
   },
     "WARN_COUNT":
   {
