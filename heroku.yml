@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: framework/Dockerfile
+      worker: Dockerfile
 run:
    worker:   npm run ghost-md
