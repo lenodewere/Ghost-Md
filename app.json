@@ -1,9 +1,9 @@
 {
-  "name":"LENNIE-W",
-  "description":"An easy and simple WhatsApp bot developed by Lenodewere lennie with Venocyber Admin",
+  "name":"GHOST-MD",
+  "description":"An easy and simple WhatsApp bot developed by BlvckCastro and Lennie-W",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/758083800a621d384a99b.jpg",
-  "repository":"https://github.com/lenodewere/Lennie-W",
+  "logo":"https://telegra.ph/file/1e840b204637187e03046.jpg",
+  "repository":"https://github.com/Blvckcastro/Ghost-Md",
   "succes_url":"/",
 "stack":"container",
 
@@ -37,7 +37,7 @@
     "BOT_NAME" : {
 
       "description":"put a name for your bot",
-      "value":"𝐋𝚵𝚴𝚴𝚰𝚵 𝐖",
+      "value":"Blvck-Cvstro",
       "required":false
 
     } ,
@@ -52,7 +52,7 @@
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
-      "required":false
+      "required":true
     }
         ,
     "HEROKU_API_KEY": {
@@ -61,7 +61,7 @@
     },
    "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is not optional)",
-     "required" :false
+     "required" :true
     }  
           ,
     "SESSION_ID":
@@ -76,20 +76,20 @@
 
     "desc": "Your Name",
     "required": true,
-    "value": "Venocyber Admin🌷🌃"
+    "value": "Lennie-W"
   },
     "OWNER_NUMBER":
   {
 
-    "desc": "Your number , dont put '+' and put you area code(exemple of Kenya '254')",
+    "desc": "Your number , dont put '+' and put you area code(i.e. Kenya '254')",
     "required":false,
-    "value": "255698101622"
+    "value": "254758682666"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "4"
   },
   "STARTING_BOT_MESSAGE":
   {
@@ -100,7 +100,7 @@
   "PRESENCE":{
     "description":"Mark your presence: 1 - online even if you are not. 2 - typing a message. 3 - recording an audio. Or leave the field blank to indicate your real state.",
     "value":"1",
-    "required": false
+    "required": true
   }  
   },
 
