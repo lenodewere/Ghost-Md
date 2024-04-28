@@ -30,7 +30,7 @@ DEPLOY ON HEROKU
  `we are currently working on it`
 
  `Then`
-   - ***Click [`FORK`](https://github.com/Blvckcastro/Ghost-Md) and `Star ⭐ Repository` for Courage.***
+   - ***Click [`FORK`](https://github.com/Blvckcastro/Ghost-Md/fork) and `Star ⭐ Repository` for Courage.***
    
    1.  `Get Session` by [`SCANING QR`](https://lennie-W-qr.onrender.com)
      Or
