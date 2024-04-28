@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/lenodewere/Lennie-W.git  /root/LennieW
-WORKDIR /root/LennieW/
+RUN git clone https://github.com/Blvckcastro/Ghost-Md.git  /root/GHOST-MD
+WORKDIR /root/GHOST-MD/
 
 
 COPY package.json .
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "lennie.js"]
+CMD ["node", "GHOST.js"]
