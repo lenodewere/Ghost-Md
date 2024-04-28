@@ -24,13 +24,13 @@
 
 ### DEPLOYMENT ###
 
-✨DEPLOY ON HEROKU 
+DEPLOY ON HEROKU 
    
- # ❗USE PAIR CODE IF QR CODE ISN'T WORKING
+ # *USE PAIR CODE IF QR CODE ISN'T WORKING*
  `we are currently working on it`
 
  `Then`
-   - ***Click [`FORK`](https://github.com/lenodewere/Lennie-W) and `Star ⭐ Repository` for Courage.***
+   - ***Click [`FORK`](https://github.com/Blvckcastro/Ghost-Md) and `Star ⭐ Repository` for Courage.***
    
    1.  ***`Get Session` by [`SCANING QR`](https://lennie-W-qr.onrender.com)
      Or
