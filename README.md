@@ -1,5 +1,5 @@
  <h1 align="center"> GHOST-MD </h1>
-<p align="center"> GHOST-MD, A Simple WhatsApp user BOT, Created by blvck castro,to help you enhance your interaction with your WhatsApp.
+<p align="center"> GHOST-MD, A Simple WhatsApp user BOT, Created by Black Castro,to help you enhance your interaction with your WhatsApp.
 </p>
 <h1 align="center">
  
@@ -61,4 +61,5 @@ Enjoy the diverse features of the *Ghost-MD*  to enhance your conversations and 
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=bluecenter=true&vCenter=true&multiline=false&lines=THANK+YOU+FOR+SUPPORTING+BLVCK-CVSTRO" alt="">
 </p>
 
-
+## Credits to: ##
+- [**France King**](https://github.com/franceking1) for base bot.
