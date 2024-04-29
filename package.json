@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node ghost.js",
-    "flashmd": "pm2 start ghost.js --attach --max-memory-restart 490M",
+    "ghostmd": "pm2 start ghost.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
