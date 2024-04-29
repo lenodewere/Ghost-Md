@@ -1,7 +1,7 @@
 {
   "name": "GHOST-MD",
   "version": "1.0.0",
-  "description": "",
+  "description": "A MultiDevice WhatsApp Bot",
   "main": "ghost.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
