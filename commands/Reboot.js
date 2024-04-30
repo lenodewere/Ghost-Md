@@ -40,7 +40,7 @@ const{repondre,ms,dev,superUser}=com;
 
   const {exec}=require("child_process")
 
-    repondre("*Rebooting...*");
+    repondre("*hi🤭senpai Ghost-Md is Rebooting...*");
 
   exec("pm2 restart all");
   
