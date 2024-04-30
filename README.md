@@ -1,5 +1,5 @@
  <h1 align="center"> GHOST-MD </h1>
-<p align="center"> GHOST-MD, A Simple WhatsApp user BOT, Created by Black Castro,to help you enhance your interaction with your WhatsApp.
+<p align="center"> GHOST-MD, A Simple WhatsApp user BOT, Created by Blvck Castro,to help you enhance your interaction with your WhatsApp.
 </p>
 <h1 align="center">
  
