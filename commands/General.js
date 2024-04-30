@@ -72,12 +72,12 @@ france({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (d
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254757835036" },
-      { nom: "᚛FranceKing᚜", numero: "254750948696" },
+      { nom: "Blvck Castro", numero: "254758682666" },
+      { nom: "᚛Blvckcastro᚜", numero: "254758682666" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to Flash-Md!* here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to Ghost-Md!* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -112,6 +112,6 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254757835036`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254758682666`},{quoted :ms})
 
 })
