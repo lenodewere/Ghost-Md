@@ -17,7 +17,7 @@
     "whatsapp-bot",
     "blvckcastro"
   ],
-  "author": "Black Castro",
+  "author": "Blvck Castro",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
